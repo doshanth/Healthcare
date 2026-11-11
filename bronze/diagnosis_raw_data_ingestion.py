@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC Test made
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC
 # MAGIC create schema if not exists healthcare.bronze;
